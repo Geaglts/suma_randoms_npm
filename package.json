@@ -1,21 +1,29 @@
 {
-    "name": "suma_randoms",
-    "version": "1.0.0",
-    "description": "Suma 2 numeros",
-    "main": "src/index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "javascript",
-        "node",
-        "npm"
-    ],
-    "author": "Miguel Angel <geaglts@gmail.com>",
-    "license": "MIT",
-    "bin": {
-        "suma-randoms": "./bin/global.js"
-    },
-    "preferGlobal": true,
-    "dependencies": {}
+  "name": "suma_randoms",
+  "version": "1.0.0",
+  "description": "Suma 2 numeros",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Miguel Angel <geaglts@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "suma-randoms": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geaglts/suma_randoms_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Geaglts/suma_randoms_npm/issues"
+  },
+  "homepage": "https://github.com/Geaglts/suma_randoms_npm#readme"
 }
