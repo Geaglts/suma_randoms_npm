@@ -14,6 +14,10 @@ npm install -g suma-randoms
 suma-randoms
 ```
 
+# Contributing
+
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [suma_randoms](git+https://github.com/Geaglts/suma_randoms_npm.git)
+
 # License
 
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
