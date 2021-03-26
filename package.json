@@ -1,5 +1,5 @@
 {
-    "name": "suma",
+    "name": "suma_randoms",
     "version": "1.0.0",
     "description": "Suma 2 numeros",
     "main": "src/index.js",
